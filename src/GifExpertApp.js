@@ -15,7 +15,7 @@ export const GifExpertApp = ()=>{
     // }
 
     return(<> 
-        <h2>GifExpertApp</h2>
+        <h2>API GIPHY React </h2>
         <AddCategory setCategories={setCategories}/>
         <hr/>
         

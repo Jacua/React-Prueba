@@ -23,7 +23,7 @@ export const AddCategory = ({setCategories}) => {
     }
     return (
         <form onSubmit={handleSubmit}>
-            <h2>Add Category</h2>
+            <h2>Ingresa una categoria y presiona tecla enter</h2>
             <input
                 type='text'
                 value = {inputValue}
